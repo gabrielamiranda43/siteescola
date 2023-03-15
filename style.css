@@ -2,7 +2,7 @@ header {background-color: brown;
 color: black;
 display: flex;
 justify-content: space-around;}
-.cabecalho-imagem{width: 16%;}
+.cabecalho-imagem{width: 22%;}
 li {
     display: inline-block;
 }
