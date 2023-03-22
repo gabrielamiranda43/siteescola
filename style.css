@@ -3,9 +3,13 @@ color: black;
 display: flex;
 justify-content: space-around;}
 .cabecalho-imagem{width: 22%;}
-li {
-    display: inline-block;
-}
+
 h1 {margin: 0 38px;
 padding: 48px 0;
-}
+font-size: 40px;}
+li {
+    display: inline-block;
+margin: 0 16px;
+padding: 60px;
+font-size: 35px;}
+
