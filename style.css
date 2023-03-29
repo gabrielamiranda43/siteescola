@@ -1,7 +1,10 @@
-header {background-color: brown; 
+* {margin: 0;
+    padding: 0;}
+header {background-color: rgb(255, 0, 106); 
 color: black;
 display: flex;
-justify-content: space-around;}
+justify-content: space-around;
+padding: 24px 0;}
 .cabecalho-imagem{width: 22%;}
 
 h1 {margin: 0 38px;
@@ -13,3 +16,10 @@ margin: 0 16px;
 padding: 60px;
 font-size: 35px;}
 
+.escola-imagem{ 
+              width: 20%;
+              }
+.escola { 
+    background-image: linear-gradient(rgb(255, 0, 85), rgb(128, 0, 53) );
+    color: blueviolet;
+}
