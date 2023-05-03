@@ -50,4 +50,14 @@ padding: 50px 0;
 font-size: 30px;
 }
 
-
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+footer{
+    background-color: black;
+    color: aqua
+}
+.estudante{
+    background-color: rgb(127, 147, 157);
+}
